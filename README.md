@@ -11,8 +11,7 @@ the demo.
 
 ### Run the Hail Demo
 
-Open the `cml/1_hail_test.py` file in a 2CPU/4GB Python3 Workbench session run the code!
-
+Open the `cml/1_hail_test.py` file in a 2CPU/4GB Python3 Workbench session run the code to see if it works. If you want more a more detailed view of how this works, open the `notebook/01-genome-wide-association-study.ipynb` notebook in a 2CPU/4GB Jupyter session.
 
 # Hail
 
