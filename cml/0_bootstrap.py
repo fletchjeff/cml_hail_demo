@@ -7,7 +7,7 @@
 # abfs://[something] and on CDSW cluster, it will be hdfs://[something]
 
 # Install the requirements
-!pip3 install -r requirements.txt
+!pip3 install -r requirements.txt --progress-bar off
 
 # Create the directories and upload data
 
