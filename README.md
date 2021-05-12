@@ -1,6 +1,7 @@
 # CML Hail Demo
 
-This is Clouder Machine Learning project demo how to run 
+This is Clouder Machine Learning project demo how to run [Hail](https://hail.is) in CML with a specific focus on 
+[Genome Wide Association Study](https://en.wikipedia.org/wiki/Genome-wide_association_study)
 
 ### Setup
 
