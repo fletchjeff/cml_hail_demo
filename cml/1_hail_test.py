@@ -1,5 +1,5 @@
-import os
-os.environ['HAIL_DIR'] = '/home/cdsw/.local/lib/python3.6/site-packages/hail/backend'
+import os, sys
+os.environ['HAIL_DIR'] = '/home/cdsw/.local/lib/python3.{}/site-packages/hail/backend'.format(sys.version_info.minor)
 
 from pyspark.sql import SparkSession
 
